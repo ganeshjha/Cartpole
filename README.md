@@ -1,5 +1,6 @@
 # Cartpole
 OpenAI's CartPole problem in Reinforcement Learning
+
 Introduction
 OpenAI's package, Gym , is a popular packages for comparing different reinforcement algorithms. In this project, there were different approaches of q-learning to solve the problem of cartpole problem: function approximation, deep q-value network, double q-value network, and experience replay for neural networks. Function approximation was done by Gregory, Deep Q Network (DQN) and experience replay was done by Ganesh, and Double Q Network (DDQN) and its experience replay was done by Jaehoon. The presentation slides for this project is in following link (Fresno State email only): https://docs.google.com/presentation/d/1Ws_RpHfSQzI7eCtL74ZFYGp6msdcpmhdJGn7xNeylXU/edit?usp=sharing 
 
